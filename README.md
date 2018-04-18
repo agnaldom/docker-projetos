@@ -49,6 +49,6 @@ $ docker-compose ps
 ```
 
 Stopando os containers
-````
+```
 $ docker-compose down
 ```
